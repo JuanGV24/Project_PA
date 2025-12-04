@@ -1,2 +1,4 @@
-# Project_PA
-Proyecto de Programación Avanzada 
+# Zona de trabajo
+Programación orientada a objetos
+Sistemas de control
+Machine learning
